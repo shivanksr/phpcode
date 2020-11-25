@@ -1,4 +1,4 @@
-# Chromatus Test - Indira Pimpalkhare
+# Chromatus Test - Shivank
 
 Import into chromatus_test.sql.
 
